@@ -1,15 +1,20 @@
-[{
-	"key": "sb",
-	"value": "1QFsaAd1wM9G4FGhQFwQbajz",
-	"path": "/",
-	"hostOnly": false,
-	"domain": ".facebook.com",
-	"creation": "2025-07-10T16:40:10.604Z",
-	"lastAccessed": "2025-07-10T16:40:10.604Z"
-	},
-	{
-	"key": "m_pixel_ratio",
-	"value": "1.7000000476837158",
-	"path": "/",
-	"hostOnly": false,
-	"domain": 
+[
+    {
+        "key": "datr",
+        "value": "JvGMaJVrEUaVK5lEZ5TDf1Nr",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-08-04T16:24:11.019Z",
+        "lastAccessed": "2025-08-04T16:24:11.020Z"
+    },
+    {
+        "key": "fr",
+        "value": "0cY4FOO17ZmMfoGkn..BojPEm..AAA.0.0.BojPNg.AWeIPjQYRxpM3xBg-qzJauU5ihU",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-08-04T16:24:11.021Z",
+        "lastAccessed": "2025-08-04T16:24:11.021Z"
+    }
+]
