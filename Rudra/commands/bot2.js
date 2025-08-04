@@ -4,7 +4,7 @@ module.exports.config = {
   version: "1.0.1",
   hasPermssion: 0,
   credits: "Fixed By Arun Kumar",
-  description: "goibot2",
+  description: "cyberbot2",
   commandCategory: "Noprefix",
   usages: "noprefix",
   cooldowns: 5,
