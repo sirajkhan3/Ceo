@@ -2,7 +2,7 @@ module.exports.config = {
   name: "autoadder",
   version: "1.1.0",
   hasPermssion: 0,
-  credits: "Rudra Op",
+  credits: "🅂🄸🅁🄰🄷 Op",
   description: "Automatically adds user to group when UID or fb link is detected",
   commandCategory: "group",
   usages: "[UID or fb link]",
