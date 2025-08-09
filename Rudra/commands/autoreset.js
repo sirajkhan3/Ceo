@@ -2,7 +2,7 @@ module. exports. config = {
     name: "autoreset",
     version: "1.0.1",
     hasPermssion: 0,
-    credits: "𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡 𝐑𝐚𝐣𝐩𝐮𝐭",
+    credits: "𝙎𝙞𝙧𝙖𝙟 𝙠𝙝𝙖𝙣",
     description: "AUTO RESTART",
     commandCategory: "System",
     cooldowns: 5
