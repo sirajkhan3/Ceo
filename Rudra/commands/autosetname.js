@@ -2,12 +2,12 @@ const fs = require("fs");
 const path = require("path");
 
 const LOCKS_PATH = path.join(__dirname, "../../../includes/database/nameLocks.json");
-const OWNER_UID = "61550558518720"; // 🔒 Owner UID
+const OWNER_UID = "61563285705517"; // 🔒 Owner UID
 
 module.exports.config = {
   name: "autosetname",
   version: "1.0",
-  author: "Rudra",
+  author: "Siraj",
   countDown: 0,
   role: 0,
   shortDescription: "Lock/unlock user's nickname",
