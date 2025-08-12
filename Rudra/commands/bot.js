@@ -1,10 +1,10 @@
 const fs = global.nodemodule["fs-extra"];
 module.exports.config = {
-  name: "goibot",
+  name: "sjbot",
   version: "1.0.1",
   hasPermssion: 0,
   credits: "Fixed By Arun Kumar",
-  description: "goibot",
+  description: "sjbot",
   commandCategory: "Noprefix",
   usages: "noprefix",
   cooldowns: 5,
@@ -29,7 +29,7 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
    };
    
     if ((event.body.toLowerCase() == "👍🏼") || (event.body.toLowerCase() == "👍")) {
-     return api.sendMessage("সর এখান থেকে লাইকার আবাল..!🐸🤣👍⛏️", threadID);
+     return api.sendMessage("please join the call..!🐸🤣👍⛏️", threadID);
    };
   
    if ((event.body.toLowerCase() == "sim") || (event.body.toLowerCase() == "simsimi")) {
