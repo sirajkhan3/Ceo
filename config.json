@@ -12,8 +12,8 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "Silly B",
-    "PREFIX": "+",
+    "BOTNAME": "SARPX BOT",
+    "PREFIX": "/",
     "OTHERBOT": [
         ""
     ],
