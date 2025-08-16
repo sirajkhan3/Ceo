@@ -15,7 +15,7 @@ module.exports.config = {
 };
 
 // API URL (Tumhara Gemini Backend)
-const API_URL = "AIzaSyBqGImJoH_aEpjPSTpkh1VWCg9bcUuY7OI";
+const API_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent";
 
 // User history and auto-reply state
 const chatHistories = {};
