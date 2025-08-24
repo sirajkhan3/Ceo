@@ -17,7 +17,7 @@ module.exports.config = {
 // --- গুরুত্বপূর্ণ ---
 // আপনার দেওয়া এপিআই কী এখানে বসানো হয়েছে।
 // সতর্কতা: এই কী-টি পাবলিক হয়ে গেছে। দ্রুত একটি নতুন কী তৈরি করে এটি পরিবর্তন করুন।
-const API_KEY = "AIzaSyCiq4_rXMkIaXncKMADje6iwkwSis6htaA";
+const API_KEY = "AIzaSyAgLSHAsOAmE9wjtKJwmaQgDZxIJ5pBnMY";
 // -----------------
 
 const API_URL = `https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent?key=${API_KEY}`;
