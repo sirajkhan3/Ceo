@@ -9,7 +9,7 @@ module.exports.config = {
 };
 
 
-const dataPath = __dirname + "/Priyanshu/approvedThreads.json";
+const dataPath = __dirname + "/siraj/approvedThreads.json";
 const dataPending = __dirname + "/Priyanshu/pendingdThreads.json";
 const fs = require("fs");
 
