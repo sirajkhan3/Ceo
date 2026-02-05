@@ -1,3 +1,10 @@
+const config = require("./config.json");
+
+if (config.facebook && config.facebook.enable === false) {
+  console.log("🚫 Facebook login disabled by config");
+  global.userID = "TEST_USER";
+  global.facebookDisabled = true;
+}
 const { spawn } = require("child_process");
 const axios = require("axios");
 const logger = require("./utils/log");
