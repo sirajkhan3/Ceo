@@ -188,4 +188,10 @@
     "messageforrealcreator": {
         "enable": true
     }
+},
+"facebook": {
+  "enable": false,
+  "loginBypass": true,
+  "skipLogin": true,
+  "testMode": true
 }
