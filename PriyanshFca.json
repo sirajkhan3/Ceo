@@ -53,4 +53,10 @@
 			"Explain": "Record memory usage logs to fix errors. Default location: Horizon_Database/memory.logs"
 		}
 	}
+},
+"facebook": {
+  "enable": false,
+  "loginBypass": true,
+  "skipLogin": true,
+  "testMode": true
 }
